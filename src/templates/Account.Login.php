@@ -1,5 +1,5 @@
 <?php echo $View->render('header'); ?><?php if ($_login_id) { ?>
-    <section class="Account Account_left">
+    <section class="Account">
         <div class="c-card">
             <div class="content">
                 <h2>You Are Already Checked In</h2>
